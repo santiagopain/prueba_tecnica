@@ -6,3 +6,4 @@ Desarrollada por Santiago Calero Beltran
 
 Backend realizado con JAVA, Spring Boot 
 Frontend realizado con html,php,javascript,css
+base de datos SQL 
